@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+
+    <!--News-->
+    <string name="title">News</string>
+    <string name="open_source">Technology</string>
+    <string name="blog">Business</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-6817624747787377~8525086304</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
